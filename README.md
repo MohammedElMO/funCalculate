@@ -3,8 +3,10 @@
 
 
 
-## Openning Projects
+## Openning the Project
 -- 
+    
+
     just run npx serve
     or 
     just serve it with live server(vscode extension)
